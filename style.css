@@ -10,8 +10,6 @@ body {
 
 header, footer {
     font-family: 'Mountains of Christmas', serif;
-    background-color: rgb(255, 0, 0);
-    color: #1eff00;
     padding: 10px 0;
     text-align: center;
 }
@@ -25,6 +23,7 @@ footer {
 #madLibOutput {
     padding: 20px;
     text-align: center;
+    font-family:'Times New Roman', Times, serif;
 }
 
 /* Add more styles based on your creativity and design preferences */
